@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "name": "specified-aquamarine-guineafowl",
+    "slug": "specified-aquamarine-guineafowl",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "automatic",
+    "ios": { "bundleIdentifier": "computer.inti.specifiedaquamarineguineafowl" },
+    "scheme": "specifiedaquamarineguineafowl"
+  }
+}
